@@ -1,23 +1,59 @@
-# Hi there, I'm Anand Yadav 👋
+<h1 align="center">Hi 👋, I'm Anand Yadav</h1>
+<h3 align="center">A passionate Computer Science Student (2021–2025)</h3>
 
-🎓 I'm currently pursuing my **Bachelor's in Computer Science (2021–2025)**.  
-💻 Passionate about **Web Development** and **Problem Solving**.
-
-## 🚀 Tech Stack:
-- Languages: **JavaScript, TypeScript, C++**
-- Frontend: **HTML, CSS**
-
-## 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/anand-yadav-6a13ab25a)  
-- 📧 Email: anandrajs1234@gmail.com
-
-## 📈 GitHub Stats:
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-## 📊 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+- 🌱 I’m currently learning **Full Stack Development**  
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/anand028)  
+- 📫 How to reach me: **anandrajs12345@gmail.com**  
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/anand-yadav-6a13ab25a)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## 🚀 Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Anand's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📌 Featured Projects:
+
+- **Portfolio Website** — *(Coming Soon)* 🚀  
+- **JavaScript Mini Games** — *(In Progress)* 🎮
+
+---
+
+## 📊 Contribution Graph:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username" alt="Visitors" />
+</p>
+
+---
+
+> “First, solve the problem. Then, write the code.” – John Johnson
 
