@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anand Yadav</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Anand+Yadav;A+passionate+CS+student+%F0%9F%91%91;Love+to+code+and+create!)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Computer Science Student (2021–2025)</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**  
