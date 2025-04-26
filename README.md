@@ -9,7 +9,7 @@
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/anand-yadav-6a13ab25a)  
-- 📧 Email: your-email@example.com
+- 📧 Email: anandrajs1234@gmail.com
 
 ## 📈 GitHub Stats:
 ![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
