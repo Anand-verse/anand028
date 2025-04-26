@@ -45,12 +45,12 @@
 
 ## 📊 Contribution Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=anand028&theme=radical)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anand028.anand028" alt="Visitors" />
 </p>
 
 ---
